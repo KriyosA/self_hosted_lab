@@ -1,6 +1,6 @@
 # Self-Hosted GitHub Actions Runner Lab
 
-This repository contains scripts and configurations to set up a self-hosted GitHub Actions runner using Docker, specifically on Alpine Linux. The setup includes creating a repository, pushing initial contents, configuring a Docker image for the runner, and managing repository secrets.
+sThis repository contains scripts and configurations to set up a self-hosted GitHub Actions runner using Docker, specifically on Alpine Linux. The setup includes creating a repository, pushing initial contents, configuring a Docker image for the runner, and managing repository secrets.
 
 ## Prerequisites
 
